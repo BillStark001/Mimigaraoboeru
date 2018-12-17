@@ -7,6 +7,7 @@ See 1.png in detail.
 # Required platform, libs and datasets
 
 Python 3.6.*
+
 Mecab 0.996
 mecab-python
 ffmpeg
