@@ -6,13 +6,12 @@ See 1.png in detail.
 
 # Required platform, libs and datasets
 
-Python 3.6.*
-
-Mecab 0.996
-mecab-python
-ffmpeg
-tensorflow
-keras
+Python 3.6.*\n
+Mecab 0.996\n
+mecab-python\n
+ffmpeg\n
+tensorflow\n
+keras\n
 
 FMA Dataset
 
